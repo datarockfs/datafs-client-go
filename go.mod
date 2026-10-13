@@ -1,4 +1,4 @@
-module github.com/oivoodoo/datafs-client-go
+module github.com/datarockfs/datafs-client-go
 
 go 1.27
 
